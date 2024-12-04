@@ -1,4 +1,4 @@
-CityID,CityName,Year,CurrentPopulation,PopulationDensity,BirthRate,DeathRate,ImmigrationRate,UnemploymentRate,AverageIncome,EducationLevel,HealthcareAccess,CrimeRate,PopulationGrowthRate
+ CityID,CityName,Year,CurrentPopulation,PopulationDensity,BirthRate,DeathRate,ImmigrationRate,UnemploymentRate,AverageIncome,EducationLevel,HealthcareAccess,CrimeRate,PopulationGrowthRate
 1,CityC,2021,1535674,908.15,11.27,13.0,18.67,15.48,25155.25,High School,5.15,1.18,-0.87
 2,CityD,2010,2023165,1809.22,21.32,12.66,0.54,14.81,52721.19,Bachelor,3.76,35.48,1.7
 3,CityE,2005,1141001,7851.01,24.27,5.78,7.1,19.91,33495.56,PhD,4.12,34.22,2.04
